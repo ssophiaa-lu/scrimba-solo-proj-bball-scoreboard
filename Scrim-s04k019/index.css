@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: verdana;
+    margin-bottom: 15px;
+
+}
+
+
+.score-box {
+    background-color: black;
+    width: 155px;
+    height: 120px;
+    padding: 10px;
+    font-size: 90px;
+    color: #F94F6D;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    padding-right: 30px;
+    box-sizing: border-box;
+    
+}
+
+.incrementers {
+    display: flex;
+    gap: 11px
+}
+.increment-btn {
+    background-color: #1B244A;
+    margin-top: 26px;
+    width: 45px;
+    height: 45px;
+    border-radius: 5px;
+    border: 2px solid #9AABD8;
+    display: flex;
+    justify-content: center; /* horizontal centering */
+    align-items: center;     /* vertical centering */
+}
+
+#add1home {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+#add2home {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+#add3home {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+#add1guest {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+#add2guest {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+#add3guest {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
