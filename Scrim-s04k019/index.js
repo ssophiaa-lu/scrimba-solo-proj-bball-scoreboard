@@ -33,3 +33,10 @@ function add3guest() {
     guestScore += 3
     guestScoreEl.innerText = guestScore
 }
+
+function clearBoard() {
+    homeScore = 0
+    guestScore = 0
+    homeScoreEl.innerText = homeScore
+    guestScoreEl.innerText = guestScore
+}
