@@ -13,6 +13,7 @@ scrimba-solo-proj-bball-scoreboard is a web app built with HTML, CSS, and JavaSc
 ## Features
 - Add 1, 2, or 3 points to either the home or guest team
 - View total score for each team
+- Clear scoreboard
 
 ---
 
