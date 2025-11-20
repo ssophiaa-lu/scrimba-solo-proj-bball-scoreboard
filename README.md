@@ -1,6 +1,6 @@
-# scrimba-solo-proj-bball-scoreboard
+# bball-scoreboard
 
-scrimba-solo-proj-bball-scoreboard is a web app built with HTML, CSS, and JavaScript that tracks scores for home and guest basketball teams in real time.
+bball-scoreboard is a web app built with HTML, CSS, and JavaScript that tracks scores for home and guest basketball teams in real time.
 ---
 
 ## Table of Contents
